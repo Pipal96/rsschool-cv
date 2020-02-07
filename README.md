@@ -1,1 +1,1 @@
-# -rsschool-cv-new
+https://github.com/Pipal96/rsschool-cv/cv
