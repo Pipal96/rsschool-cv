@@ -31,4 +31,4 @@ It is important for me to get into EPAM, because I believe that this is exactly 
 
 * Secondary special education, the profile of electrician. Geekbrains training courses at the faculty of web development, specialty front-end developer. The end date is April 2020.
 
-* Level A1. I'm studying at the moment.
+* Level A1. I'm studying at the moment...
