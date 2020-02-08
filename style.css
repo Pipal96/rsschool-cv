@@ -1,4 +1,24 @@
 body {
     max-width: 1024px;
     margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to top right, rgb(255, 255, 255), rgb(252, 247, 250), rgb(250, 240, 246), rgb(247, 232, 241), rgb(245, 225, 237), rgb(242, 217, 232), rgb(241, 213, 226), rgb(240, 210, 220), rgb(239, 206, 214), rgb(237, 202, 207), rgb(236, 199, 201), rgb(235, 195, 195));
+}
+
+h1 {
+    text-align: center;
+    color: tomato;
+}
+
+b {
+    color: tomato;
+}
+
+a {
+    text-decoration: none;
+    color: ;
+}
+
+li {
+    margin-bottom: 15px;
 }
